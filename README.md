@@ -1,5 +1,5 @@
 # pretzelpandaInfra
-internal infra
+internal infra, devops, internal ai agents dependency and other related so
 
 
 Shared docker resources --> migrating to cloud once 
