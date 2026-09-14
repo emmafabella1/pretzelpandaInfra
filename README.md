@@ -4,7 +4,7 @@
 internal infra, devops, internal ai agents dependency and other related so
 
 
-Shared docker resources --> migrating to cloud once 
+Shared docker resources --> migrating to cloud now
 
 Service	URL
 📚 Docmost	http://46.250.226.123:1991
