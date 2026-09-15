@@ -1,4 +1,4 @@
-# pretzelpandaInfra
+# pretzelpandaInfra - i built my own IT department due to boredom
 
 😆🐘🐼
 internal infra, devops, internal ai agents dependency and other related so
